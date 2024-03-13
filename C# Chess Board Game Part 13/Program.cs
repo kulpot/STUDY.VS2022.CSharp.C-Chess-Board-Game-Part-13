@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace C__Chess_Board_Game_Part_13
+namespace C__Chess_Board_10
 {
     internal static class Program
     {
