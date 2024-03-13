@@ -20,6 +20,9 @@ using System.Windows.Forms;
 //--------------------------- C# Chess Board 12 button text ---------------------------------------------------
 //ref link:https://www.youtube.com/watch?v=l7N4kCi9UhQ&list=PLhPyEFL5u-i0YDRW6FLMd1PavZp9RcYdF&index=12
 
+//--------------------------- C# Chess Board Game Part 13 challenges -----------------------------------------
+//ref link:https://www.youtube.com/watch?v=XrYJzZXre2s&list=PLhPyEFL5u-i0YDRW6FLMd1PavZp9RcYdF&index=13
+
 namespace C__Chess_Board_10
 {
     public partial class Form1 : Form
